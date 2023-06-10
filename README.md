@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vithi</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img align="right" alt="coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&psig=AOvVaw0Ls3M-dxyEgH6lUL7by3jQ&ust=1686509349817000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCTzIevuf8CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vithi-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="vithi-pixel" /> </p>
 
